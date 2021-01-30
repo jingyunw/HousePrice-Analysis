@@ -76,19 +76,19 @@ The top 3 cities locate in the center of the North region with water nearby (Lak
 |  Test RMSE  | 245604.251 | 0.253 |
 
 ## Conclusions
-Among analyze 21243 house data, a multiple linear regression model was built based on 36 features include: sqft_living,  sqft_lot, rm_ratio, age, grade, city, waterfront, basement, and renovated. Homebuyers can use my model to predict the house price with given parameter values<br>
+Among analyze 21243 house data, a multiple linear regression model was built based on 36 features include: sqft_living,  sqft_lot, rm_ratio, age, grade, city, waterfront, basement, and renovated. Homebuyers can use my model to predict the house price with given parameter values.<br>
 ***
 Some recommendation for potential homebuyers are:
-- <b>Feburay</b> is the best month for potential homebuyers to purchase houses with lowest sale price<br>
+- <b>Feburay</b> is the best month for potential homebuyers to purchase houses with lowest sale price.<br>
 - North regions are more likely to find a higher price house and south regions are more likely to find a lower price house. Homebuyers can use my price distrbution map to determine the searching area based on budget. 
-- There are many features can help predict house price. Some of those features have great impact on house price
-- The <b>top features</b> that have strong relationship with house price are: <b>sqft_living, grade, waterfront, and city</b>
+- There are many features can help predict house price. Some of those features have great impact on house price.
+- The <b>top features</b> that have strong relationship with house price are: <b>sqft_living, grade, waterfront, and city.</b>
 
 ## Future Work
 Further analysis can be explored on the following to provide additional insights and improve the performance of the model.
 - <b>School Ranking</b>: Education resource and school quality are highly correlated which should determine the wealthiness of the city thus impact house price.
-- <b>Nearby Feature</b>: Transportation, dinning, grocery stores, and recreation area accessbility can also affect house price
-- <b>Market Fluctuation</b>: Acquiring data beyond May 2015 can better understand market trend and price growth/decline. Potential homebuyers may also consider re-selling the house for getting profit
+- <b>Nearby Feature</b>: Transportation, dinning, grocery stores, and recreation area accessbility can also affect house price.
+- <b>Market Fluctuation</b>: Acquiring data beyond May 2015 can better understand market trend and price growth/decline. Potential homebuyers may also consider re-selling the house for getting profit.
 
 ## For More Information
 See the full analysis and modeling in the jupyter notebook and presentation.<br>
