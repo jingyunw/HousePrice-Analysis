@@ -72,8 +72,8 @@ The top 3 cities locate in the center of the North region with water nearby (Lak
 | # of features | 4 | 36|
 |Train R2  | 0.537 | 0.774 |
 |Test R2  | 0.529 | 0.765 |
-| Train RMSE  | 252724.942 | 0.250 |
-|  Test RMSE  | 245604.251 | 0.253 |
+| Train RMSE (logged)  | 252724.942 | 0.250 |
+|  Test RMSE (logged)  | 245604.251 | 0.253 |
 
 ## Conclusions
 Among analyze 21243 house data, a multiple linear regression model was built based on 36 features include: sqft_living,  sqft_lot, rm_ratio, age, grade, city, waterfront, basement, and renovated. Homebuyers can use my model to predict the house price with given parameter values.<br>
