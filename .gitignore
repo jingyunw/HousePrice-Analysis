@@ -1,6 +1,12 @@
 # Other PDF materials for submission
 untitled folder/
 
+# Pictures for blog post
+images/heatmap after.png
+images/heatmap.png
+images/residual 1.png
+images/residual 3.png
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
