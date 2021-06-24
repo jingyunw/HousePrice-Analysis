@@ -95,8 +95,10 @@ See the full analysis and modeling in the [Jupyter Notebook](./Notebook.ipynb) a
 For additional information please contact, JingYun (Jonna) Wang at jingyunwang24@gmail.com
 
 ## Repository Structure
-├── data
+```
+├── additional
 ├── images
 ├── Notebook.ipynb
 ├── Presentation.pdf
 └── README.md
+```
