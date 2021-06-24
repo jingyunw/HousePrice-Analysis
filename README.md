@@ -91,5 +91,12 @@ Further analysis can be explored on the following to provide additional insights
 - <b>Market Fluctuation</b>: Acquiring data beyond May 2015 can better understand market trend and price growth/decline. Potential homebuyers may also consider re-selling the house for getting profit.
 
 ## For More Information
-See the full analysis and modeling in the jupyter notebook and presentation.<br>
+See the full analysis and modeling in the [Jupyter Notebook](./Notebook.ipynb) and [presentation](./Presentation.pdf).
 For additional information please contact, JingYun (Jonna) Wang at jingyunwang24@gmail.com
+
+## Repository Structure
+├── data
+├── images
+├── Notebook.ipynb
+├── Presentation.pdf
+└── README.md
